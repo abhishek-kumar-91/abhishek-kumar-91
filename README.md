@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar91&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar91" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar91" alt="abhishekkumar91" /></a> </p>
 
-- 🔭 I’m currently working on [JobBoards](https://github.com/abhishek-kumar-91/JobsBoard)
 
-- 🌱 I’m currently learning **MongoDB, NodeJS, Python, Java, SpringBoot**
+- 🔭 I’m currently working on [JobBoards](https://github.com/abhishek-kumar-91/tour_history)
+
+- 🌱 I’m currently learning **MongoDB, NodeJS, Python, Java**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/abhishekkumar91](https://linktr.ee/abhishekkumar91)
 
