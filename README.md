@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate full Stack Developer(MERN and Java) from India</h3>
+<h3 align="center">A passionate full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar91&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar91" /> </p>
 
 
 
-- 🔭 I’m currently working on [TourHistory](https://github.com/abhishek-kumar-91/tour_history)
+- 🔭 I’m currently working on [AI Hire](https://github.com/abhishek-kumar-91/AI-Hire)
 
 - 🌱 I’m currently learning **MongoDB, NodeJS, Python, Java**
 
