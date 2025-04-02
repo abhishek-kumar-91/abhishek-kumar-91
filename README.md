@@ -1,25 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar91&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar91" /> </p>
 
 
 
-- 🔭 I’m currently working on [AI Hire](https://github.com/abhishek-kumar-91/AI-Hire)
 
-- 🌱 I’m currently learning **MongoDB, NodeJS, Python, Java**
+
+- 🌱 I’m currently learning **Advance backend systems (Ngnix, Docker, WebSocket, WebRTC etc...)**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/abhishekkumar91](https://linktr.ee/abhishekkumar91)
-
-- 📝 I regularly write articles on [https://codesecurities.blogspot.com/](https://codesecurities.blogspot.com/)
 
 - 💬 Ask me about **ReactJS, JavaScript, Java**
 
 - 📫 How to reach me **abhishekkumar958830@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhishekkumardev91/](https://www.linkedin.com/in/abhishekkumardev91/)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
